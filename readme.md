@@ -1,7 +1,6 @@
 # Инструкция по работе с GIT
 
 
-
 LICENCE:[MIT](licence.md)
 ![Git-logo](./assets/Git-Logo-2Color.png)
 
