@@ -13,13 +13,18 @@ _Git — система управления версиями с распред�
 
 1.[git commit](./commit.md)
 
-2.[git add](./add.md)
+2.[git checkout](./checkout.md)
 
-3.[git config](./config.md)
+3.[git init](./init.md)
 
-4.[git init](./init.md)
+4.[git config](./config.md)
 
 5.[git clone](./clone.md)
+
+6.[git add](./add.md)
+
+
+
 
 ## Команды для работы с удаленным репозиторием:
 
